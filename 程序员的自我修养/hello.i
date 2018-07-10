@@ -847,6 +847,7 @@ extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__));
 
 # 2 "hello.c" 2
 
+
 int main()
 {
     printf("Hello World\n");
